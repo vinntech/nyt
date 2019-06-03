@@ -4,14 +4,19 @@
 This is responsive web app using react and Material UI to fetch articles from NYT web api. It contains following ui parts.
 
 1.) Header Part - 
+
     Top left Menu Icon - If you click on it, it will redirect to main page.
+
     Title - Title will be 'NY Times Most Popular'
+
     Search Input - Not implemented
 
 2.) Main body area where routed page will be rendered.
 
 3.) There are two screens
+
     1.) List of articles fetched from NYT web api.
+    
     2.) Detail of selected article -> When user click on [Right Arrow icon] at the right of item from List of Articles screen.
 
 4.) User can come on main screen by clicking on Top left menu icon at the header part.
