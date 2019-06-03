@@ -16,7 +16,7 @@ This is responsive web app using react and Material UI to fetch articles from NY
 3.) There are two screens
 
     1.) List of articles fetched from NYT web api.
-    
+
     2.) Detail of selected article -> When user click on [Right Arrow icon] at the right of item from List of Articles screen.
 
 4.) User can come on main screen by clicking on Top left menu icon at the header part.
@@ -24,14 +24,18 @@ This is responsive web app using react and Material UI to fetch articles from NY
 ### Main Tools, Library, IDE used
 
 1.) Visual Studio Code
+
 2.) React
+
 3.) Material UI
 
 ### `Getting start - Follow the steps to run the web app`
 
 1.) Clone the git repository by following git command on Visual Studio Code Terminal.
 
-Command: git clone [git repository url]
+Command: git clone [git repository url - https://github.com/vinntech/nyt.git] 
+
+- I have sent you in mail.
 
 2.) run following command to install NPM dependencies
 
@@ -40,6 +44,8 @@ Command: npm install
 3.) set NYT api key
 
 Go to config.json file in src folder and set your api-key [nytApiKey=your api key]
+
+*Note - You can also use api key which I have given already in config.json. Cross fingers, it should work.
 
 4.) run following command to start the app.
 
