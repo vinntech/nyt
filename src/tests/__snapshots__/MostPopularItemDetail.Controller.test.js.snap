@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Snapshot matches to atricles controller 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded MuiCard-root"
+>
+  <div
+    className="MuiCardHeader-root"
+  >
+    <div
+      className="MuiCardHeader-avatar"
+    >
+      <div
+        className="MuiAvatar-root"
+        yalt="Remy Sharp"
+      >
+        <img
+          className="MuiAvatar-img"
+          src="/test.jpg"
+        />
+      </div>
+    </div>
+    <div
+      className="MuiCardHeader-content"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-body2 MuiTypography-displayBlock MuiCardHeader-title"
+      >
+        Test
+      </span>
+      <span
+        className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock MuiCardHeader-subheader"
+      >
+        byline
+      </span>
+    </div>
+    <div
+      className="MuiCardHeader-action"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+      >
+        12-12-2019
+      </p>
+    </div>
+  </div>
+  <img
+    className="MuiCardMedia-root MuiCardMedia-media"
+    src="/test.jpg"
+    title="Test"
+  />
+  <div
+    className="MuiCardContent-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+    >
+      Test 1111
+    </p>
+  </div>
+</div>
+`;

@@ -1,0 +1,1752 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Snapshot matches to atricles view 1`] = `
+<ul
+  className="MuiList-root MuiList-padding"
+>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Trump Accuses Mueller of a Personal Vendetta as Calls for Impeachment Grow
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By PETER BAKER and EILEEN SULLIVAN
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-30
+      </span>
+      <a
+        href="/articles/100000006532341"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Mueller, in First Comments on Russia Inquiry, Declines to Clear Trump
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By SHARON LaFRANIERE
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530597"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Doctors Were Alarmed: ‘Would I Have My Children Have Surgery Here?’
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By ELLEN GABLER
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-30
+      </span>
+      <a
+        href="/articles/100000006528829"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Deceased G.O.P. Strategist’s Hard Drives Reveal New Details on the Census Citizenship Question
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By MICHAEL WINES
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-30
+      </span>
+      <a
+        href="/articles/100000006529792"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          籠の中の皇太子妃
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By MOTOKO RICH
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-04-29
+      </span>
+      <a
+        href="/articles/100000006484502"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          30 Years After Tiananmen, a Chinese Military Insider Warns: Never Forget
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By CHRIS BUCKLEY
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-28
+      </span>
+      <a
+        href="/articles/100000006521291"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          ‘Wow, What Is That?’ Navy Pilots Report Unexplained Flying Objects
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By HELENE COOPER, RALPH BLUMENTHAL and LESLIE KEAN
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-26
+      </span>
+      <a
+        href="/articles/100000006515727"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Navy Destroyer John McCain Hidden During Trump’s Japan Visit
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By MAGGIE HABERMAN and HELENE COOPER
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006531877"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          More Than Patriotism on Their Sleeves: Military Patches Sport Trump Likeness
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By ERIC SCHMITT
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-28
+      </span>
+      <a
+        href="/articles/100000006529755"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          After Coalition Talks Crumble, Israel on Course for Another Election
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By ISABEL KERSHNER
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530471"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Nigel Farage Is the Most Dangerous Man in Britain
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By RICHARD SEYMOUR
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-28
+      </span>
+      <a
+        href="/articles/100000006528712"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          French Rock Star’s Instagram Defeats His Widow in Inheritance Battle
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By PALKO KARASZ
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530514"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Robert De Niro: Robert Mueller, We Need to Hear More
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By ROBERT DE NIRO
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530823"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Tornado Warning and Storms Jolt New York Region
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By AZI PAYBARAH, DEREK M. NORMAN and MICHAEL GOLD
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530461"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Your Tales of Subway Oddities: Dog in a Bag Edition
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By EMMA G. FITZSIMMONS
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-28
+      </span>
+      <a
+        href="/articles/100000006522146"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          McConnell Says Republicans Would Fill a Supreme Court Vacancy in 2020, Drawing Claims of Hypocrisy
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By DANIEL VICTOR
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530284"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Dementia Stopped Peter Max From Painting. For Some, That Spelled a Lucrative Opportunity.
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By AMY CHOZICK
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-28
+      </span>
+      <a
+        href="/articles/100000006509898"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          Worry About Facebook. Rip Your Hair Out in Screaming Terror About Fox News.
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By FARHAD MANJOO
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006530139"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          To Stop Border Crossings, the U.S. Made the Journey Deadlier
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By LEAH VARJACQUES and JESSIA MA
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-29
+      </span>
+      <a
+        href="/articles/100000006525336"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiListItem-container"
+  >
+    <div
+      className="MuiListItem-root MuiListItem-gutters MuiListItem-alignItemsFlexStart MuiListItem-secondaryAction"
+      disabled={false}
+    >
+      <div
+        className="MuiListItemAvatar-root MuiListItemAvatar-alignItemsFlexStart"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-colorDefault"
+          yalt="Remy Sharp"
+        />
+      </div>
+      <div
+        className="MuiListItemText-root MuiListItemText-multiline"
+      >
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+        >
+          As Everest Melts, Bodies Are Emerging From the Ice
+        </span>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary MuiListItemText-secondary"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            By BHADRA SHARMA and KAI SCHULTZ
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiListItemSecondaryAction-root"
+    >
+      <span
+        className="MuiTypography-root MuiTypography-subtitle2 MuiTypography-colorTextPrimary MuiTypography-alignRight"
+        padding=""
+      >
+        2019-05-30
+      </span>
+      <a
+        href="/articles/100000006463318"
+        onClick={[Function]}
+      >
+        <button
+          aria-label="Comments"
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd"
+          disabled={false}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+              />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+      </a>
+    </div>
+  </li>
+  <li
+    className="MuiDivider-root MuiDivider-inset"
+    role="separator"
+  />
+</ul>
+`;

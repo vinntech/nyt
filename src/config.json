@@ -1,0 +1,4 @@
+{
+    "nytUrl" : "https://api.nytimes.com/svc/mostpopular/v2/viewed/{0}.json?q={1}&api-key={2}",
+    "nytApiKey" : "zDkNN1L72YxyCM5FzNEs0OAUHUZB1yhT"
+}

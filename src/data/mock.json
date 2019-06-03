@@ -1,0 +1,1214 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1587,
+    "results": [
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/30\/us\/politics\/trump-russia-help-elected.html",
+            "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Cyberwarfare and Defense;United States Politics and Government;Special Prosecutors (Independent Counsel);Russia;Trump, Donald J",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By PETER BAKER and EILEEN SULLIVAN",
+            "type": "Article",
+            "title": "Trump Accuses Mueller of a Personal Vendetta as Calls for Impeachment Grow",
+            "abstract": "President Trump dismissed comments from Robert S. Mueller III, the special counsel, that the Russia inquiry did not clear the president of wrongdoing. \u201cHe\u2019s somebody that dislikes Donald Trump.\u201d",
+            "published_date": "2019-05-30",
+            "source": "The New York Times",
+            "id": 100000006532341,
+            "asset_id": 100000006532341,
+            "views": 1,
+            "des_facet": [
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "CYBERWARFARE AND DEFENSE",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "RUSSIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Doug Mills\/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/politics\/30dc-trumprussia-videosub\/30dc-trumprussia-videosub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/politics\/30dc-trumprussia-videosub\/30dc-trumprussia-videosub-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/politics\/30dc-trumprussia-videosub\/30dc-trumprussia-videosub-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/8951aae2-a150-5fa6-8303-e8991812fc4b"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/us\/politics\/mueller-special-counsel.html",
+            "adx_keywords": "Mueller, Robert S III;Special Prosecutors (Independent Counsel);Russian Interference in 2016 US Elections and Ties to Trump Associates;Trump, Donald J;Barr, William P;Justice Department;United States Politics and Government;Democratic Party;House of Representatives;Senate;Impeachment",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By SHARON LaFRANIERE",
+            "type": "Article",
+            "title": "Mueller, in First Comments on Russia Inquiry, Declines to Clear Trump",
+            "abstract": "Though he did not rule out congressional testimony, the special counsel also said that he would only testify about the facts already in the report.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530597,
+            "asset_id": 100000006530597,
+            "views": 2,
+            "des_facet": [
+                "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "JUSTICE DEPARTMENT",
+                "DEMOCRATIC PARTY",
+                "HOUSE OF REPRESENTATIVES",
+                "SENATE",
+                "IMPEACHMENT"
+            ],
+            "per_facet": [
+                "MUELLER, ROBERT S III",
+                "TRUMP, DONALD J",
+                "BARR, WILLIAM P"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert S. Mueller III, the special counsel, at the Justice Department on Wednesday.",
+                    "copyright": "Doug Mills\/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/us\/politics\/29dc-mueller-vid-sub\/29dc-mueller-vid-sub-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/us\/politics\/29dc-mueller-vid-sub\/29dc-mueller-vid-sub-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/us\/politics\/29dc-mueller-vid-sub\/29dc-mueller-vid-sub-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/f6eb0604-0104-5457-8127-a2fa2a23a487"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/interactive\/2019\/05\/30\/us\/children-heart-surgery-cardiac.html",
+            "adx_keywords": "Surgery and Surgeons;Ethics and Official Misconduct;Hospitals;Heart;UNC Children's Hospital;North Carolina Children's Hospital;Deaths (Fatalities);University of North Carolina;Doctors;Malpractice",
+            "column": "",
+            "section": "U.S.",
+            "byline": "By ELLEN GABLER",
+            "type": "Interactive",
+            "title": "Doctors Were Alarmed: \u2018Would I Have My Children Have Surgery Here?\u2019",
+            "abstract": "Secret recordings captured physicians\u2019 concerns that more children seemed to fare poorly after heart surgery. Their hospital kept doing the operations.",
+            "published_date": "2019-05-30",
+            "source": "The New York Times",
+            "id": 100000006528829,
+            "asset_id": 100000006528829,
+            "views": 3,
+            "des_facet": [
+                "SURGERY AND SURGEONS",
+                "ETHICS AND OFFICIAL MISCONDUCT",
+                "HOSPITALS",
+                "HEART",
+                "DEATHS (FATALITIES)",
+                "DOCTORS",
+                "MALPRACTICE"
+            ],
+            "org_facet": [
+                "UNC CHILDREN'S HOSPITAL",
+                "NORTH CAROLINA CHILDREN'S HOSPITAL",
+                "UNIVERSITY OF NORTH CAROLINA"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jeremiah\u2019s operation took twice as long as expected, and he died two weeks later.",
+                    "copyright": "Travis Dove for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/30cardiac7\/00Moore03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/30cardiac7\/30cardiac7-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/30cardiac7\/30cardiac7-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/interactive\/48fb396a-4263-56cc-8818-8a869072364e"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/30\/us\/census-citizenship-question-hofeller.html",
+            "adx_keywords": "Redistricting and Reapportionment;Census;Supreme Court (US);Justice Department;Republican Party",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL WINES",
+            "type": "Article",
+            "title": "Deceased G.O.P. Strategist\u2019s Hard Drives Reveal New Details on the Census Citizenship Question",
+            "abstract": "Weeks before the Supreme Court rules on the legality of the citizenship question, evidence filed in court could further erode the Trump administration\u2019s rationale for the question.",
+            "published_date": "2019-05-30",
+            "source": "The New York Times",
+            "id": 100000006529792,
+            "asset_id": 100000006529792,
+            "views": 4,
+            "des_facet": [
+                "REDISTRICTING AND REAPPORTIONMENT"
+            ],
+            "org_facet": [
+                "CENSUS",
+                "SUPREME COURT (US)",
+                "JUSTICE DEPARTMENT",
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Thomas B. Hofeller, a leading Republican strategist, died in August and left a trove of computer files containing evidence that could now be relevant in a Supreme Court case.",
+                    "copyright": "via C-SPAN",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/31\/us\/31census-p1\/29census-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/31\/us\/31census-p1\/29census-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/31\/us\/31census-p1\/29census-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/79795f6b-e0b7-573b-a1b9-b51a2d8bd884"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/ja\/2019\/04\/29\/world\/asia\/abdication-princess-masako-japanese-translation.html",
+            "adx_keywords": "Royal Families;Akihito;Japan",
+            "column": "\u7687\u4f4d\u306e\u5b58\u7d9a\uff1a\u30a8\u30d4\u30bd\u30fc\u30c94",
+            "section": "World",
+            "byline": "By MOTOKO RICH",
+            "type": "Article",
+            "title": "\u7c60\u306e\u4e2d\u306e\u7687\u592a\u5b50\u5983",
+            "abstract": "\u7687\u5ba4\u306e\u5b58\u7d9a\u306f\u3001\u5f7c\u5973\u306e\u80a9\u306b\u304b\u304b\u3063\u3066\u3044\u305f\u3002\u305d\u3057\u3066\u3001\u305d\u306e\u546a\u7e1b\u304b\u3089\u9003\u308c\u3089\u308c\u306a\u304b\u3063\u305f\u3002",
+            "published_date": "2019-04-29",
+            "source": "The New York Times",
+            "id": 100000006484502,
+            "asset_id": 100000006484502,
+            "views": 5,
+            "des_facet": [
+                "ROYAL FAMILIES"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "AKIHITO"
+            ],
+            "geo_facet": [
+                "JAPAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/04\/30\/world\/00throne-08\/00throne-08-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/04\/30\/world\/00throne-08\/00throne-08-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/04\/30\/world\/00throne-08\/00throne-08-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/d815bac2-6fdc-5d90-831a-e2af362e7d30"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/28\/world\/asia\/china-tiananmen-square-massacre.html",
+            "adx_keywords": "Tiananmen Square (Beijing);Jiang Lin (Journalist);Demonstrations, Protests and Riots;Communist Party of China;Liberation Army Daily;Beijing (China);Defense and Military Forces;Politics and Government;Central Military Commission (China);China;Human Rights and Human Rights Violations",
+            "column": null,
+            "section": "World",
+            "byline": "By CHRIS BUCKLEY",
+            "type": "Article",
+            "title": "30 Years After Tiananmen, a Chinese Military Insider Warns: Never Forget",
+            "abstract": "A former People\u2019s Liberation Army journalist defied a political taboo to describe the bloody crackdown in Beijing and urge a national reckoning.",
+            "published_date": "2019-05-28",
+            "source": "The New York Times",
+            "id": 100000006521291,
+            "asset_id": 100000006521291,
+            "views": 6,
+            "des_facet": [
+                "DEMONSTRATIONS, PROTESTS AND RIOTS",
+                "DEFENSE AND MILITARY FORCES",
+                "POLITICS AND GOVERNMENT",
+                "HUMAN RIGHTS AND HUMAN RIGHTS VIOLATIONS"
+            ],
+            "org_facet": [
+                "COMMUNIST PARTY OF CHINA",
+                "LIBERATION ARMY DAILY",
+                "CENTRAL MILITARY COMMISSION (CHINA)"
+            ],
+            "per_facet": [
+                "JIANG LIN (JOURNALIST)"
+            ],
+            "geo_facet": [
+                "TIANANMEN SQUARE (BEIJING)",
+                "BEIJING (CHINA)",
+                "CHINA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vehicles on fire on the night of the crackdown in Tiananmen Square in Beijing on June 4, 1989.",
+                    "copyright": "Peter Charlesworth\/LightRocket, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/world\/00china-tiananmen-8\/00china-tiananmen-6-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/world\/00china-tiananmen-8\/00china-tiananmen-8-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/world\/00china-tiananmen-8\/00china-tiananmen-8-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/b9f45951-fb89-52c0-b0cd-75270dd02e11"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/26\/us\/politics\/ufo-sightings-navy-pilots.html",
+            "adx_keywords": "United States Defense and Military Forces;Unidentified Flying Objects (UFO);Pilots;United States Navy;Military Aircraft;Defense Department;East Coast (US)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By HELENE COOPER, RALPH BLUMENTHAL and LESLIE KEAN",
+            "type": "Article",
+            "title": "\u2018Wow, What Is That?\u2019 Navy Pilots Report Unexplained Flying Objects",
+            "abstract": "No one at the Pentagon is saying that the objects are extraterrestrial, but the Navy has issued new classified guidance for reporting unexplained aerial phenomena.",
+            "published_date": "2019-05-26",
+            "source": "The New York Times",
+            "id": 100000006515727,
+            "asset_id": 100000006515727,
+            "views": 7,
+            "des_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNIDENTIFIED FLYING OBJECTS (UFO)",
+                "PILOTS",
+                "MILITARY AIRCRAFT"
+            ],
+            "org_facet": [
+                "UNITED STATES NAVY",
+                "DEFENSE DEPARTMENT"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "EAST COAST (US)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Navy pilots from the VFA-11 \u201cRed Rippers\u201d squadron aboard the aircraft carrier Theodore Roosevelt in 2015. The squadron began noticing strange objects just after the Navy upgraded the radar systems on its F\/A-18 fighter planes.",
+                    "copyright": "Adam Ferguson for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/us\/politics\/00dc-ufo2\/00dc-ufo2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/us\/politics\/00dc-ufo2\/merlin_98047735_3653fd43-cc8d-4ece-8947-bc0653b1d92d-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/us\/politics\/00dc-ufo2\/merlin_98047735_3653fd43-cc8d-4ece-8947-bc0653b1d92d-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/d948908f-9a60-5b1d-9c1f-8470e014eca3"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/us\/politics\/uss-mccain-navy-ship.html",
+            "adx_keywords": "United States Politics and Government;United States Defense and Military Forces;USS John S McCain (Ship);Military Bases and Installations;United States Navy;McCain, John;Shanahan, Patrick M (1962- );Trump, Donald J;Japan",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MAGGIE HABERMAN and HELENE COOPER",
+            "type": "Article",
+            "title": "Navy Destroyer John McCain Hidden During Trump\u2019s Japan Visit",
+            "abstract": "While Navy officials insisted they did not hide the ship, they did give all of sailors aboard the day off on Tuesday as President Trump visited Yokosuka Naval Base in Japan.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006531877,
+            "asset_id": 100000006531877,
+            "views": 8,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "UNITED STATES DEFENSE AND MILITARY FORCES"
+            ],
+            "org_facet": [
+                "USS JOHN S MCCAIN (SHIP)",
+                "MILITARY BASES AND INSTALLATIONS",
+                "UNITED STATES NAVY"
+            ],
+            "per_facet": [
+                "MCCAIN, JOHN",
+                "SHANAHAN, PATRICK M (1962- )",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "JAPAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy destroyer the John S. McCain near the Philippines in 2014.",
+                    "copyright": "Bullit Marquez\/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/politics\/30dc-mccain\/29dc-mccain-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/politics\/30dc-mccain\/69eebec85bf643fda28f10ae8b6b39af-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/us\/politics\/30dc-mccain\/69eebec85bf643fda28f10ae8b6b39af-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/64cb67a0-2a18-575b-9cad-854ec9a7e5c0"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/28\/world\/asia\/military-patch-trump.html",
+            "adx_keywords": "Trump, Donald J;United States Navy;United States Politics and Government;United States Defense and Military Forces;Japan;Memorial Day;Defense Department",
+            "column": null,
+            "section": "World",
+            "byline": "By ERIC SCHMITT",
+            "type": "Article",
+            "title": "More Than Patriotism on Their Sleeves: Military Patches Sport Trump Likeness",
+            "abstract": "A flap over politically themed patches worn by some American troops during President Trump\u2019s visit of a warship in Japan has forced the Navy to review its policies.",
+            "published_date": "2019-05-28",
+            "source": "The New York Times",
+            "id": 100000006529755,
+            "asset_id": 100000006529755,
+            "views": 9,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "UNITED STATES DEFENSE AND MILITARY FORCES"
+            ],
+            "org_facet": [
+                "UNITED STATES NAVY",
+                "MEMORIAL DAY",
+                "DEFENSE DEPARTMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "JAPAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Troops wearing patches that say \u201cMake Aircrew Great Again\u201d during President Trump\u2019s visit Tuesday to the United States amphibious assault ship Wasp in Yokosuka, Japan, on Tokyo Bay.",
+                    "copyright": "Erin Schaff\/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/us\/politics\/28dc-patch\/28dc-patch-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/us\/politics\/28dc-patch\/merlin_155535981_564a4e6c-783a-46be-84a6-088ab46b5c54-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/us\/politics\/28dc-patch\/merlin_155535981_564a4e6c-783a-46be-84a6-088ab46b5c54-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/00bc259e-f436-5235-892c-68eb24cfc6c7"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/world\/middleeast\/israel-election-benjamin-netanyahu.html",
+            "adx_keywords": "Israel;Netanyahu, Benjamin;Lieberman, Avigdor;Elections;Politics and Government;Legislatures and Parliaments;Immunity from Prosecution;Rivlin, Reuven",
+            "column": null,
+            "section": "World",
+            "byline": "By ISABEL KERSHNER",
+            "type": "Article",
+            "title": "After Coalition Talks Crumble, Israel on Course for Another Election",
+            "abstract": "Benjamin Netanyahu seemed to have an easy path back to power. But his efforts ran aground on a power struggle among his potential partners.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530471,
+            "asset_id": 100000006530471,
+            "views": 10,
+            "des_facet": [
+                "ELECTIONS",
+                "POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "LEGISLATURES AND PARLIAMENTS",
+                "IMMUNITY FROM PROSECUTION"
+            ],
+            "per_facet": [
+                "NETANYAHU, BENJAMIN",
+                "LIEBERMAN, AVIGDOR",
+                "RIVLIN, REUVEN"
+            ],
+            "geo_facet": [
+                "ISRAEL"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Benjamin Netanyahu of Israel has been nicknamed \u201cthe magician\u201d for the political wizardry that has kept him in office for the last decade.",
+                    "copyright": "Menahem Kahana\/Agence France-Presse \u2014 Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/briefing\/29israel-promo-new\/29israel-promo-new-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/briefing\/29israel-promo-new\/29evening-briefing-slides-slide-IS8X-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/briefing\/29israel-promo-new\/29evening-briefing-slides-slide-IS8X-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/24787a93-2369-5b1b-963d-b39aecb0d801"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/28\/opinion\/nigel-farage-brexit.html",
+            "adx_keywords": "Farage, Nigel (1964- );Politics and Government;Referendums;Great Britain Withdrawal from EU (Brexit);Immigration and Emigration;Brexit Party (Great Britain);Conservative Party (Great Britain);Great Britain;United Kingdom Independence Party;European Parliament;Elections",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By RICHARD SEYMOUR",
+            "type": "Article",
+            "title": "Nigel Farage Is the Most Dangerous Man in Britain",
+            "abstract": "He\u2019s the most effective demagogue in a generation. Now he sets the agenda.",
+            "published_date": "2019-05-28",
+            "source": "The New York Times",
+            "id": 100000006528712,
+            "asset_id": 100000006528712,
+            "views": 11,
+            "des_facet": [
+                "POLITICS AND GOVERNMENT",
+                "REFERENDUMS",
+                "ELECTIONS"
+            ],
+            "org_facet": [
+                "GREAT BRITAIN WITHDRAWAL FROM EU (BREXIT)",
+                "IMMIGRATION AND EMIGRATION",
+                "BREXIT PARTY (GREAT BRITAIN)",
+                "CONSERVATIVE PARTY (GREAT BRITAIN)",
+                "UNITED KINGDOM INDEPENDENCE PARTY",
+                "EUROPEAN PARLIAMENT"
+            ],
+            "per_facet": [
+                "FARAGE, NIGEL (1964- )"
+            ],
+            "geo_facet": [
+                "GREAT BRITAIN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nigel Farage celebrating on Monday after his Brexit Party came in first in Britain in the European Parliament elections.",
+                    "copyright": "Peter Summers\/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/opinion\/28Seymour\/28Seymour-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/opinion\/28Seymour\/28Seymour-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/30\/opinion\/28Seymour\/28Seymour-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/f42247b9-33e8-532f-937f-b48b99bc2088"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/world\/europe\/johnny-hallyday-instagram-will.html",
+            "adx_keywords": "Hallyday, Johnny;Music;France;Courts and the Judiciary;Social Media;Widows and Widowers;Instagram Inc",
+            "column": null,
+            "section": "World",
+            "byline": "By PALKO KARASZ",
+            "type": "Article",
+            "title": "French Rock Star\u2019s Instagram Defeats His Widow in Inheritance Battle",
+            "abstract": "If Johnny Hallyday, the \u201cFrench Elvis,\u201d was a United States resident, then his fourth wife stood to inherit his whole fortune. Social media evidence led a French court to rule otherwise.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530514,
+            "asset_id": 100000006530514,
+            "views": 12,
+            "des_facet": [
+                "MUSIC",
+                "COURTS AND THE JUDICIARY",
+                "SOCIAL MEDIA",
+                "WIDOWS AND WIDOWERS"
+            ],
+            "org_facet": [
+                "INSTAGRAM INC"
+            ],
+            "per_facet": [
+                "HALLYDAY, JOHNNY"
+            ],
+            "geo_facet": [
+                "FRANCE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Johnny Hallyday\u2019s widow, Laeticia, second from left, with their daughters Jade, left, and Joy, alongside Mr. Hallyday\u2019s grown children Laura Smet and David Hallyday at his funeral in 2017.",
+                    "copyright": "Pool photo by Ludovic Marin",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/world\/29hallyday1\/29hallyday1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/world\/29hallyday1\/merlin_147602283_8e731514-1b5d-46f4-89f2-ebe45422e927-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/world\/29hallyday1\/merlin_147602283_8e731514-1b5d-46f4-89f2-ebe45422e927-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/a0af6bfe-66e0-559b-bf30-d1b596bf673c"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/opinion\/robert-de-niro-robert-mueller-we-need-to-hear-more.html",
+            "adx_keywords": "Mueller, Robert S III;Special Prosecutors (Independent Counsel);Russian Interference in 2016 US Elections and Ties to Trump Associates;Trump, Donald J;United States Politics and Government",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By ROBERT DE NIRO",
+            "type": "Article",
+            "title": "Robert De Niro: Robert Mueller, We Need to Hear More",
+            "abstract": "You said that your investigation\u2019s work \u201cspeaks for itself.\u201d It doesn\u2019t.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530823,
+            "asset_id": 100000006530823,
+            "views": 13,
+            "des_facet": [
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)"
+            ],
+            "per_facet": [
+                "MUELLER, ROBERT S III",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert De Niro as Robert Mueller on \u201cSaturday Night Live.\u201d",
+                    "copyright": " Will Heath\/NBC",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/opinion\/29denireWeb\/29denireWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/opinion\/29denireWeb\/29denireWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/opinion\/29denireWeb\/29denireWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/7016ea17-df17-56c7-ba6d-c1eaf562e331"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/nyregion\/newyorktoday\/tornado-warning-nyc-news.html",
+            "adx_keywords": "New York City;Tornadoes;Space and Astronomy;Photography",
+            "column": "New York Today",
+            "section": "New York",
+            "byline": "By AZI PAYBARAH, DEREK M. NORMAN and MICHAEL GOLD",
+            "type": "Article",
+            "title": "Tornado Warning and Storms Jolt New York Region",
+            "abstract": "Wednesday: A rare tornado warning startled the New York region last night, sending people scurrying for shelter as thunderstorms descended.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530461,
+            "asset_id": 100000006530461,
+            "views": 14,
+            "des_facet": [
+                "TORNADOES",
+                "SPACE AND ASTRONOMY"
+            ],
+            "org_facet": [
+                "PHOTOGRAPHY"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "NEW YORK CITY"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/nyregion\/29nytoday-weather\/29nytoday-weather-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/nyregion\/29nytoday-weather\/29nytoday-weather-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/nyregion\/29nytoday-weather\/29nytoday-weather-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/9881ea14-ebd7-5011-a223-08b59f695c88"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/interactive\/2019\/05\/28\/nyregion\/subway-dogs.html",
+            "adx_keywords": "Metropolitan Transportation Authority;Subways;Dogs;Transit Systems;Byford, Andrew;New York City;your-feed-onlyinnewyork",
+            "column": "",
+            "section": "New York",
+            "byline": "By EMMA G. FITZSIMMONS",
+            "type": "Interactive",
+            "title": "Your Tales of Subway Oddities: Dog in a Bag Edition",
+            "abstract": "We\u2019re taking a break from chronicling your subway woes to appreciate one of the best parts about riding the train: The weird and beautiful sights you regularly stumble upon.",
+            "published_date": "2019-05-28",
+            "source": "The New York Times",
+            "id": 100000006522146,
+            "asset_id": 100000006522146,
+            "views": 15,
+            "des_facet": [
+                "SUBWAYS",
+                "TRANSIT SYSTEMS",
+                "YOUR-FEED-ONLYINNEWYORK"
+            ],
+            "org_facet": [
+                "METROPOLITAN TRANSPORTATION AUTHORITY",
+                "DOGS"
+            ],
+            "per_facet": [
+                "BYFORD, ANDREW"
+            ],
+            "geo_facet": [
+                "NEW YORK CITY"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jacqui Cheng via Twitter",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/multimedia\/subwayoddities-1558558990709\/subwayoddities-1558558990709-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/multimedia\/subwayoddities-1558558990709\/subwayoddities-1558558990709-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/multimedia\/subwayoddities-1558558990709\/subwayoddities-1558558990709-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/interactive\/04f95097-8281-5144-9c3d-ef3317525ab9"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/us\/politics\/mitch-mcconnell-supreme-court.html",
+            "adx_keywords": "Supreme Court (US);McConnell, Mitch",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By DANIEL VICTOR",
+            "type": "Article",
+            "title": "McConnell Says Republicans Would Fill a Supreme Court Vacancy in 2020, Drawing Claims of Hypocrisy",
+            "abstract": "The Senate majority leader acknowledged that Republicans would treat a judge nominated by a Republican president differently from one nominated by a Democratic president.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530284,
+            "asset_id": 100000006530284,
+            "views": 16,
+            "des_facet": "",
+            "org_facet": [
+                "SUPREME COURT (US)"
+            ],
+            "per_facet": [
+                "MCCONNELL, MITCH"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mitch McConnell, the Senate majority leader, speaking at a Paducah Chamber of Commerce luncheon in his home state of Kentucky on Tuesday.",
+                    "copyright": "Ellen O'Nan\/The Paducah Sun, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/world\/29xp-mcconnell-1\/29xp-mcconnell-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/world\/29xp-mcconnell-1\/29xp-mcconnell-1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/29\/world\/29xp-mcconnell-1\/29xp-mcconnell-1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/5e09dd21-8b19-564e-b1f5-363eaa5bb4da"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/28\/business\/peter-max-dementia-cruise-ship-auctions.html",
+            "adx_keywords": "Max, Peter;Art;Cruises;ALP Inc;Park West Gallery;Max, Adam Cosmo;Max, Libra Astro;Frauds and Swindling;Forgery;Luntz, Gene;Moskowitz, Lawrence;Mary, Mary",
+            "column": null,
+            "section": "Business",
+            "byline": "By AMY CHOZICK",
+            "type": "Article",
+            "title": "Dementia Stopped Peter Max From Painting. For Some, That Spelled a Lucrative Opportunity.",
+            "abstract": "Now Peter Max\u2019s associates are trading lurid allegations of kidnapping, hired goons, attempted murder by Brazil nut and art fraud on the high seas.",
+            "published_date": "2019-05-28",
+            "source": "The New York Times",
+            "id": 100000006509898,
+            "asset_id": 100000006509898,
+            "views": 17,
+            "des_facet": [
+                "ART",
+                "CRUISES",
+                "FORGERY"
+            ],
+            "org_facet": [
+                "ALP INC",
+                "PARK WEST GALLERY",
+                "FRAUDS AND SWINDLING"
+            ],
+            "per_facet": [
+                "MAX, PETER",
+                "MAX, ADAM COSMO",
+                "MAX, LIBRA ASTRO",
+                "LUNTZ, GENE",
+                "MOSKOWITZ, LAWRENCE",
+                "MARY, MARY"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Max\u2019s imagery practically became wallpaper for the turn on, tune in, drop out generation.",
+                    "copyright": "Yale Joel\/The LIFE Picture Collection",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/business\/28MAX-ca1967\/28MAX-ca1967-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/business\/28MAX-ca1967\/merlin_155372535_73706c11-685a-4b86-a34b-ab2fa226b16c-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/business\/28MAX-ca1967\/merlin_155372535_73706c11-685a-4b86-a34b-ab2fa226b16c-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/8887dac4-ba26-5b28-b791-dafc7da03ac5"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/29\/opinion\/fox-news-facebook-pelosi.html",
+            "adx_keywords": "News and News Media;Social Media;Rumors and Misinformation;Television;Facebook Inc;Fox Broadcasting Co;Fox News Channel;YouTube.com;Murdoch, Rupert;Pelosi, Nancy;Trump, Donald J;United States;Video Recordings, Downloads and Streaming;United States Politics and Government",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By FARHAD MANJOO",
+            "type": "Article",
+            "title": "Worry About Facebook. Rip Your Hair Out in Screaming Terror About Fox News.",
+            "abstract": "Novel forms of digital misinformation still pale in comparison with Fox News\u2019 full-time hall of mirrors.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006530139,
+            "asset_id": 100000006530139,
+            "views": 18,
+            "des_facet": [
+                "NEWS AND NEWS MEDIA",
+                "SOCIAL MEDIA",
+                "RUMORS AND MISINFORMATION",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "TELEVISION",
+                "FACEBOOK INC",
+                "FOX BROADCASTING CO",
+                "FOX NEWS CHANNEL",
+                "YOUTUBE.COM",
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+            ],
+            "per_facet": [
+                "MURDOCH, RUPERT",
+                "PELOSI, NANCY",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "UNITED STATES"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "News zipper outside Fox News headquarters in New York on Wednesday.",
+                    "copyright": "Damon Winter\/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/31\/opinion\/29manjooWeb\/29manjooWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/31\/opinion\/29manjooWeb\/29manjooWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/31\/opinion\/29manjooWeb\/29manjooWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/404c9501-b7fb-5b37-8d1b-ddf9a3b53551"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/interactive\/2019\/05\/29\/opinion\/migrant-crisis.html",
+            "adx_keywords": "Warren, Scott;Migrant Crisis;Customs and Border Protection (US);Illegal Immigration;border wall;Immigration Detention;Immigration and Emigration;Trump, Donald J;Republican Party;Mexico;Democratic Party;your-feed-opinionvideo;Border Barriers;Deaths (Fatalities);Arizona;New Mexico;California;Texas",
+            "column": "",
+            "section": "Opinion",
+            "byline": "By LEAH VARJACQUES and JESSIA MA",
+            "type": "Interactive",
+            "title": "To Stop Border Crossings, the U.S. Made the Journey Deadlier",
+            "abstract": "The Trump administration\u2019s criminalization of humanitarian aid at the border could make it even worse.",
+            "published_date": "2019-05-29",
+            "source": "The New York Times",
+            "id": 100000006525336,
+            "asset_id": 100000006525336,
+            "views": 19,
+            "des_facet": [
+                "ILLEGAL IMMIGRATION",
+                "IMMIGRATION DETENTION",
+                "IMMIGRATION AND EMIGRATION",
+                "YOUR-FEED-OPINIONVIDEO",
+                "BORDER BARRIERS",
+                "DEATHS (FATALITIES)"
+            ],
+            "org_facet": [
+                "CUSTOMS AND BORDER PROTECTION (US)",
+                "REPUBLICAN PARTY",
+                "DEMOCRATIC PARTY"
+            ],
+            "per_facet": [
+                "WARREN, SCOTT",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "MEXICO",
+                "ARIZONA",
+                "NEW MEXICO",
+                "CALIFORNIA",
+                "TEXAS"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/opinion\/op-border-deaths\/op-border-deaths-thumbStandard-v4.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/opinion\/op-border-deaths\/op-border-deaths-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/opinion\/op-border-deaths\/op-border-deaths-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/interactive\/27049bf4-a06a-5241-b296-375096198fd3"
+        },
+        {
+            "url": "https:\/\/www.nytimes.com\/2019\/05\/30\/sports\/everest-bodies-global-warming.html",
+            "adx_keywords": "Global Warming;Mount Everest;Mountaineering;Himalayas;Deaths (Fatalities)",
+            "column": null,
+            "section": "Sports",
+            "byline": "By BHADRA SHARMA and KAI SCHULTZ",
+            "type": "Article",
+            "title": "As Everest Melts, Bodies Are Emerging From the Ice",
+            "abstract": "Climbers and the Nepalese government believe the recently exposed bodies are the result of global warming, which is rapidly melting the mountain\u2019s glaciers.",
+            "published_date": "2019-05-30",
+            "source": "The New York Times",
+            "id": 100000006463318,
+            "asset_id": 100000006463318,
+            "views": 20,
+            "des_facet": [
+                "MOUNTAINEERING"
+            ],
+            "org_facet": [
+                "GLOBAL WARMING",
+                "DEATHS (FATALITIES)"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "MOUNT EVEREST",
+                "HIMALAYAS"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "About 300 climbers have died trying to summit Mount Everest in the last six decades, and more than 100 bodies may be lying on the mountain.",
+                    "copyright": "Niranjan Shrestha\/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/sports\/28everest\/merlin_155532465_9dbfddf7-fa5c-40f5-876a-dbf6e16b5e93-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/sports\/28everest\/merlin_155532465_9dbfddf7-fa5c-40f5-876a-dbf6e16b5e93-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https:\/\/static01.nyt.com\/images\/2019\/05\/28\/sports\/28everest\/merlin_155532465_9dbfddf7-fa5c-40f5-876a-dbf6e16b5e93-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt:\/\/article\/442fc464-37f6-5397-a767-a0b721556681"
+        }
+    ]
+}
