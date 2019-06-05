@@ -21,6 +21,8 @@ This is responsive web app using react and Material UI to fetch articles from NY
 
 4.) User can come on main screen by clicking on Top left menu icon at the header part.
 
+---
+
 ### Main Tools, Library, IDE used
 
 1.) Visual Studio Code
@@ -28,6 +30,8 @@ This is responsive web app using react and Material UI to fetch articles from NY
 2.) React
 
 3.) Material UI
+
+---
 
 ### `Getting start - Follow the steps to run the web app`
 
@@ -43,6 +47,8 @@ Command: git clone [git repository url - https://github.com/vinntech/nyt.git]
 
 #### Command: npm install
 
+---
+
 4.) Set NYT api key
 
 Go to config.json file in src folder and set your api-key [nytApiKey=your api key]
@@ -53,6 +59,8 @@ Go to config.json file in src folder and set your api-key [nytApiKey=your api ke
 
 #### Command:  npm start
 
+---
+
 ### `Lets do testing`
 
 1.) Run the following command to test the app.
@@ -62,15 +70,13 @@ Go to config.json file in src folder and set your api-key [nytApiKey=your api ke
 
 Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' Press 'a' to run all tests.
 
+---
+
 ### `Lets take it out App coverage report`
 
 1.) Run the following command to take the coverage report of the app. Press 'q' to quit from previous command.
 
----
-
 #### Command: npm run coverage --watchAll=false
-
----
 
 
 Please follow the below instruction if shows this messages 'No tests found related to files changed since last commit.'
@@ -93,5 +99,5 @@ Open following files.
 
 Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. Its just to make any change in each file to generate coverage report. And now run the same command given above.
 
-
+---
 
