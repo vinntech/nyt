@@ -39,7 +39,7 @@ It contains following ui parts.
 
 1.) Clone the git repository by following git command on Visual Studio Code Terminal.
 
-Command: git clone [git repository url - https://github.com/vinntech/nyt.git] 
+#### >Command: git clone https://github.com/vinntech/nyt.git
 
 - I have sent you in mail.
 
