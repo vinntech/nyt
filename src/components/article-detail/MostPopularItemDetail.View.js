@@ -39,3 +39,4 @@ function MostPopularItemDetailView(props){
 }
 export default MostPopularItemDetailView;
 
+/* Remote it for coverage report */

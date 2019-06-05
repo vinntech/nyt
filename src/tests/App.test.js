@@ -10,7 +10,7 @@
 
 import React from 'react';
 import renderer from 'react-test-renderer';
-import App from './App';
+import App from '../components/App';
 
 test("App snapshop match", () => {
   const appComponent = renderer.create(<App />);

@@ -118,3 +118,5 @@ function AppHeader(props) {
 }
 
 export default AppHeader;
+
+/* Remote it for coverage report */

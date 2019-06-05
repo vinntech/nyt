@@ -52,3 +52,5 @@ class MostPopularItem extends Component {
 }
 
 export default MostPopularItem;
+
+/* Remote it for coverage report */

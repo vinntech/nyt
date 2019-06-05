@@ -21,3 +21,5 @@ function MostPopularArticlesView(props) {
 }
 
 export default MostPopularArticlesView;
+
+/* Remote it for coverage report */

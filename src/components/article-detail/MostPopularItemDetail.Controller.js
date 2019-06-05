@@ -61,3 +61,5 @@ class MostPopularItemDetail extends Component{
 }
 
 export default MostPopularItemDetail;
+
+/* Remote it for coverage report */

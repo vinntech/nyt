@@ -37,17 +37,19 @@ Command: git clone [git repository url - https://github.com/vinntech/nyt.git]
 
 - I have sent you in mail.
 
-2.) run following command to install NPM dependencies
+2.) It will create nyt directory, go to nyt directory.
+
+3.) Run following command to install NPM dependencies
 
 Command: npm install
 
-3.) set NYT api key
+4.) Set NYT api key
 
 Go to config.json file in src folder and set your api-key [nytApiKey=your api key]
 
-*Note - You can also use api key which I have given already in config.json. Cross fingers, it should work.
+*Note - You can also use api key which I have given already in config.json and skip this point. Cross fingers, it should work.
 
-4.) run following command to start the app.
+5.) Run following command to start the app.
 
 Command: npm start
 

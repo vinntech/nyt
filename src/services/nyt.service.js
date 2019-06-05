@@ -31,3 +31,5 @@ const NYTService = {
 }
 
 export default NYTService;
+
+/* Remote it for coverage report */

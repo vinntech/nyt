@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import AppHeader from './appbar/appbar';
+import AppHeader from './appbar/AppHeader';
 import Grid from '@material-ui/core/Grid';
 import MostPopularArticles from './articles/MostPopularArticles.Controller'
 import MostPopularItemDetail from './article-detail/MostPopularItemDetail.Controller'
@@ -33,3 +33,5 @@ class App extends Component{
 }
 
 export default App;
+
+/* Remote it for coverage report */

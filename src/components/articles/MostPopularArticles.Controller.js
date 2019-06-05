@@ -43,3 +43,5 @@ class MostPopularArticles extends Component {
 }
 
 export default MostPopularArticles;
+
+/* Remote it for coverage report */
