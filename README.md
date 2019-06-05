@@ -1,7 +1,8 @@
 
 ### NYT Times Most Popular Articles
 
-This is responsive web app using react and Material UI to fetch articles from NYT web api. It contains following ui parts.
+This is responsive web app using react and Material UI to fetch articles from NYT web api. 
+It contains following ui parts.
 
 1.) Header Part - 
 
@@ -17,7 +18,8 @@ This is responsive web app using react and Material UI to fetch articles from NY
 
     1.) List of articles fetched from NYT web api.
 
-    2.) Detail of selected article -> When user click on [Right Arrow icon] at the right of item from List of Articles screen.
+    2.) Detail of selected article -> When user click on [Right Arrow icon] 
+        at the right of item from List of Articles screen.
 
 4.) User can come on main screen by clicking on Top left menu icon at the header part.
 
@@ -53,7 +55,8 @@ Command: git clone [git repository url - https://github.com/vinntech/nyt.git]
 
 Go to config.json file in src folder and set your api-key [nytApiKey=your api key]
 
-*Note - You can also use api key which I have given already in config.json and skip this point. Cross fingers, it should work.
+*Note - You can also use api key which I have given already in config.json and skip this point. 
+Cross fingers, it should work.
 
 5.) Run following command to start the app.
 
@@ -68,7 +71,8 @@ Go to config.json file in src folder and set your api-key [nytApiKey=your api ke
 
 #### Command: npm run test --watchAll=false
 
-Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' Press 'a' to run all tests.
+Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' 
+Press 'a' to run all tests.
 
 ---
 
@@ -97,7 +101,8 @@ Open following files.
 
     7.)    src/tests/MostPopularArticles.Controller.test.js
 
-Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. Its just to make any change in each file to generate coverage report. And now run the same command given above.
+Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. 
+Its just to make any change in each file to generate coverage report. And now run the same command given above.
 
 ---
 
