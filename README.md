@@ -41,7 +41,7 @@ Command: git clone [git repository url - https://github.com/vinntech/nyt.git]
 
 3.) Run following command to install NPM dependencies
 
-Command: npm install
+## 'Command: npm install'
 
 4.) Set NYT api key
 
@@ -51,17 +51,42 @@ Go to config.json file in src folder and set your api-key [nytApiKey=your api ke
 
 5.) Run following command to start the app.
 
-Command: npm start
+## 'Command:  npm start'
 
 ### `Lets do testing`
 
 1.) Run the following command to test the app.
 
-Command: npm run test
 
-### `Lets take it app coverage report`
+## 'Command: npm run test --watchAll=false'
 
-1.) Run the following command to take the coverage report of the app.
+Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' Press 'a' to run all tests.
 
-Command: npm run coverage
+### `Lets take it out App coverage report`
+
+1.) Run the following command to take the coverage report of the app. Press 'q' to quit from previous command.
+
+## 'Command: npm run coverage --watchAll=false'
+
+Please follow the below instruction if shows this messages 'No tests found related to files changed since last commit.'
+
+Open following files.
+
+    1.)   src/tests/MostPopularItemDetail.View.test.js
+
+    2.)   src/tests/MostPopularArticles.View.test.js
+
+    3.)   src/tests/App.test.js
+
+    4.)   src/tests/MostPopularItemDetail.Controller.test.js
+
+    5.)   src/tests/nyt.service.test.js
+
+    6.)   src/tests/AppHeader.test.js
+
+    7.)    src/tests/MostPopularArticles.Controller.test.js
+
+Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. Its just to make any change in each file to generate coverage report. And now run the same command given above.
+
+
 
