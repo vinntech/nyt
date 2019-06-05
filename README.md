@@ -39,9 +39,9 @@ It contains following ui parts.
 
 1.) Clone the git repository by following git command on Visual Studio Code Terminal.
 
-#### >Command: git clone https://github.com/vinntech/nyt.git
+#### Command: git clone https://github.com/vinntech/nyt.git
 
-- I have sent you in mail.
+> I have sent you in mail.
 
 2.) It will create nyt directory, go to nyt directory.
 
@@ -55,7 +55,7 @@ It contains following ui parts.
 
 Go to config.json file in src folder and set your api-key [nytApiKey=your api key]
 
-*Note - You can also use api key which I have given already in config.json and skip this point. 
+>Note - You can also use api key which I have given already in config.json and skip this point. 
 Cross fingers, it should work.
 
 5.) Run following command to start the app.
@@ -71,7 +71,7 @@ Cross fingers, it should work.
 
 #### Command: npm run test --watchAll=false
 
-Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' 
+>Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' 
 Press 'a' to run all tests.
 
 ---
@@ -83,7 +83,7 @@ Press 'a' to run all tests.
 #### Command: npm run coverage --watchAll=false
 
 
-Please follow the below instruction if shows this messages 'No tests found related to files changed since last commit.'
+Please follow the below instruction if it shows this messages 'No tests found related to files changed since last commit.'
 
 Open following files.
 
@@ -101,7 +101,7 @@ Open following files.
 
     7.)    src/tests/MostPopularArticles.Controller.test.js
 
-Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. 
+>Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. 
 Its just to make any change in each file to generate coverage report. And now run the same command given above.
 
 ---
