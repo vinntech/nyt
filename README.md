@@ -87,19 +87,20 @@ Please follow the below instruction if it shows this messages 'No tests found re
 
 Open following files.
 
-    1.)   src/tests/MostPopularItemDetail.View.test.js
+    
+    1.) src\components\App.js
 
-    2.)   src/tests/MostPopularArticles.View.test.js
+    2.) src\components\appbar\AppHeader.js
 
-    3.)   src/tests/App.test.js
+    3.) src\components\articles\MostPopularArticles.Controller.js
 
-    4.)   src/tests/MostPopularItemDetail.Controller.test.js
+    4.) src\components\articles\MostPopularArticles.View.js
 
-    5.)   src/tests/nyt.service.test.js
+    5.) src\components\article-detail\MostPopularItemDetail.Controller.js
 
-    6.)   src/tests/AppHeader.test.js
+    6.) src\components\article-detail\MostPopularItemDetail.View.js
 
-    7.)    src/tests/MostPopularArticles.Controller.test.js
+    7.) src\services\nyt.service.js
 
 >Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. 
 Its just to make any change in each file to generate coverage report. And now run the same command given above.
