@@ -41,7 +41,7 @@ Command: git clone [git repository url - https://github.com/vinntech/nyt.git]
 
 3.) Run following command to install NPM dependencies
 
-## 'Command: npm install'
+#### 'Command: npm install'
 
 4.) Set NYT api key
 
@@ -51,14 +51,14 @@ Go to config.json file in src folder and set your api-key [nytApiKey=your api ke
 
 5.) Run following command to start the app.
 
-## 'Command:  npm start'
+#### 'Command:  npm start'
 
 ### `Lets do testing`
 
 1.) Run the following command to test the app.
 
 
-## 'Command: npm run test --watchAll=false'
+#### 'Command: npm run test --watchAll=false'
 
 Please follow the instruction if it shows this message 'No tests found related to files changed since last commit.' Press 'a' to run all tests.
 
@@ -66,7 +66,7 @@ Please follow the instruction if it shows this message 'No tests found related t
 
 1.) Run the following command to take the coverage report of the app. Press 'q' to quit from previous command.
 
-## 'Command: npm run coverage --watchAll=false'
+#### 'Command: npm run coverage --watchAll=false'
 
 Please follow the below instruction if shows this messages 'No tests found related to files changed since last commit.'
 
