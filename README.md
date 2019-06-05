@@ -96,11 +96,13 @@ Open following files.
 
     4.) src\components\articles\MostPopularArticles.View.js
 
-    5.) src\components\article-detail\MostPopularItemDetail.Controller.js
+    5.) src\components\articles\MostPopularItem.js
 
-    6.) src\components\article-detail\MostPopularItemDetail.View.js
+    6.) src\components\article-detail\MostPopularItemDetail.Controller.js
 
-    7.) src\services\nyt.service.js
+    7.) src\components\article-detail\MostPopularItemDetail.View.js
+
+    8.) src\services\nyt.service.js
 
 >Remove this line '/* Remote it for coverage report */' at the bottom from each file and save it. 
 Its just to make any change in each file to generate coverage report. And now run the same command given above.
