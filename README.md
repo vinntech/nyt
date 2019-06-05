@@ -65,8 +65,9 @@ Please follow the instruction if it shows this message 'No tests found related t
 ### `Lets take it out App coverage report`
 
 1.) Run the following command to take the coverage report of the app. Press 'q' to quit from previous command.
-
+...
 #### Command: npm run coverage --watchAll=false
+...
 
 Please follow the below instruction if shows this messages 'No tests found related to files changed since last commit.'
 
